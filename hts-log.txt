@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Jan 2022 08:38:15 at http://peerlessadvisory.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://peerlessadvisory.com/ -O1 "C:\Users\dell\Desktop\kany" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:40:44	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/bootstrap.css (from peerlessadvisory.com/)
+08:41:02	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/ico/apple-touch-icon-57-precomposed.png (from peerlessadvisory.com/)
+08:41:14	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/humancapital.html (from peerlessadvisory.com/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/slides/nivo/bg-1.jpg (from peerlessadvisory.com/)
+08:41:21	Error: 	"Not Found" (404) at link peerlessadvisory.com/acconting.html (from peerlessadvisory.com/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/works/full/image-01-full.jpg (from peerlessadvisory.com/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/dummies/clients/client2.png (from peerlessadvisory.com/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/dummies/clients/client4.png (from peerlessadvisory.com/)
+08:41:24	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/dummies/clients/client9.png (from peerlessadvisory.com/)
+08:41:24	Error: 	"Not Found" (404) at link peerlessadvisory.com/services.html (from peerlessadvisory.com/)
+08:41:24	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/google-code-prettify/prettify.js (from peerlessadvisory.com/)
+08:41:25	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/portfolio/jquery.quicksand.js (from peerlessadvisory.com/)
+08:41:25	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/portfolio/setting.js (from peerlessadvisory.com/)
+08:41:30	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/jquery.ba-cond.min.js (from peerlessadvisory.com/)
+08:41:34	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/jquery.slitslider.js (from peerlessadvisory.com/)
+08:41:35	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/custom.js (from peerlessadvisory.com/)
+08:41:36	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/fancybox/fancybox_loading.gif (from peerlessadvisory.com/css/fancybox/jquery.fancybox.css)
+08:41:36	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/fancybox/fancybox_overlay.png (from peerlessadvisory.com/css/fancybox/jquery.fancybox.css)
+08:41:36	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/images/bg_direction_nav.png (from peerlessadvisory.com/css/flexslider.css)
+08:41:36	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/font-awesome.css (from peerlessadvisory.com/css/style.css)
+08:41:40	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/animate.css (from peerlessadvisory.com/css/style.css)
+08:41:41	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/bodybg/bg4.png (from peerlessadvisory.com/css/style.css)
+08:41:42	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/bodybg/bg7.png (from peerlessadvisory.com/css/style.css)
+08:41:45	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/bodybg/bg9.png (from peerlessadvisory.com/css/style.css)
+08:41:45	Error: 	"Not Found" (404) at link peerlessadvisory.com/bodybg/bg1.css (from peerlessadvisory.com/about.html)
+08:41:46	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/dummies/clients/client9.png (from peerlessadvisory.com/)
+08:41:47	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/js/google-code-prettify/prettify.js (from peerlessadvisory.com/)
+08:41:50	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/img/glyphicons-halflings-white.png (from peerlessadvisory.com/css/bootstrap.css)
+08:41:50	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/css/fancybox/fancybox_loading.gif (from peerlessadvisory.com/css/fancybox/jquery.fancybox.css)
+08:41:51	Error: 	"Not Found" (404) at link peerlessadvisory.com/css/images/bg_direction_nav.png (from peerlessadvisory.com/css/flexslider.css)
+08:41:57	Warning: 	Retry after error -4 (No data (connection closed)) at link peerlessadvisory.com/font/customicon/Icons.ttf (from peerlessadvisory.com/css/custom-fonts.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 48 seconds : 128 links scanned, 96 files written (3302435 bytes overall) [3328686 bytes received at 14599 bytes/sec], 1.6 requests per connection
+(4 errors, 27 warnings, 0 messages)
